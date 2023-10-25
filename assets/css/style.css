@@ -1,0 +1,22 @@
+.center {
+  color: darkblue;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto1 {
+  color: darkturquoise;
+  font-weight: bolder;
+}
+
+.texto2 {
+  color: blueviolet;
+  font-size: medium;
+}
